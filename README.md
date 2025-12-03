@@ -1,4 +1,4 @@
-# Career Recommendation AI Model — Research Paper Data
+# Career Recommendation AI Model
 
 ---
 
